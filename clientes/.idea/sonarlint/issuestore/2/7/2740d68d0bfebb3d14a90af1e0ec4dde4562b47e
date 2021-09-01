@@ -1,0 +1,13 @@
+
+l
+java:S2259,"OA "NullPointerException" could be thrown; "clienteRepository" is nullable here.(ìŞ‚8Ê½ßëø.
+C
+java:S1170"!Make this final field static too.(¿Úƒíÿÿÿÿÿ8Ê½ßëø.
+e
+java:S2259?"HA "NullPointerException" could be thrown; "repository" is nullable here.(İ¿œ8›şßù.
+^
+java:S1128"<Remove this unused import 'javax.transaction.Transactional'.(ûÒçÑúÿÿÿÿ8ú¥Åáù.
+>
+java:S1170$"!Make this final field static too.(Šµµµ8ƒÅôÜù.
+>
+java:S1170!"!Make this final field static too.(¬îåë8˜­âëø.
